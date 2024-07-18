@@ -1,6 +1,6 @@
 (
   async () => {
-    let response = await fetch('https://cdn.jsdelivr.net/gh/cristianmendozacopixil/nonsensecdns@develop/mh.list.json')
+    let response = await fetch('https://cdn.statically.io/gh/cristianmendozacopixil/_nonsenseprojects/develop/nonsensecdns/mh.list.json')
     const sagas = await response.json()
     const list=Object.entries(document.querySelectorAll('.post-body a')).map(([k,v])=>v).filter(el=>RegExp('Capitulo').test(el.outerHTML));
     const setChapter = (params, el, cNumber) => {
@@ -54,7 +54,7 @@
   }
 )()
 
-const hideSidebar = (param) =>  {
+let hideSidebar = (param) =>  {
   let c = param.closest('#sidebar');
   if (!c.classList.contains('hidden')) {
     c.classList.remove('col-2')
@@ -66,7 +66,7 @@ const hideSidebar = (param) =>  {
     document.querySelector('#content').classList.add('d-none')
   }
 }
-const openElement=(t,p)=>{
+let openElement = (t,p)=>{
   document.querySelectorAll('span.item-link').forEach(el=>el.classList.remove('selected'))
   t.classList.add('selected')
   let id = t.getAttribute('data-id')
