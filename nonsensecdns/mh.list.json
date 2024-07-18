@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Monte Hua",
+    "data": [
+      { "range_chapters": "001-004", "name": "Renacido" },
+      { "range_chapters": "005-017", "name": "Discipulo" },
+      { "range_chapters": "018-028", "name": "Deudas" },
+      { "range_chapters": "029-045", "name": "Recuperando los negocios" },
+      { "range_chapters": "046-060", "name": "Gremio Eunha" }
+    ]
+  },
+  {
+    "name": "Torneo contra borde del sur",
+    "data": [
+      { "range_chapters": "061-070", "name": "Los haré ganar" },
+      { "range_chapters": "071-087", "name": "Discipulos de 2da generación" },
+      { "range_chapters": "088-094", "name": "Secta borde del sur" },
+      { "range_chapters": "095-115", "name": "Derrota de la 2da generación" },
+      { "range_chapters": "095-102", "name": "Victora de la 3ra generación" },
+      { "range_chapters": "103-110", "name": "Último en pie" },
+      { "range_chapters": "111-115", "name": "¿Celebración?" }
+    ]
+  },
+  {
+    "name": "Tumba de la espada",
+    "data": [
+      { "range_chapters": "116-121", "name": "!3D-2Y" },
+      { "range_chapters": "122-128", "name": "Contra la secta wudang" },
+      { "range_chapters": "129-134", "name": "Mapa del tesoro" },
+      { "range_chapters": "135-145", "name": "Mapa del tesoro" },
+      { "range_chapters": "145-162", "name": "Tumba de la espada" }
+    ]
+  },
+  {
+    "name": "Pildora del origen del caos",
+    "data": [
+      { "range_chapters": "163-169", "name": "Pildora del origen del caos" },
+      { "range_chapters": "170-176", "name": "Faltan ingredientes" },
+      { "range_chapters": "177-180", "name": "Viajando a Sichuan" },
+      { "range_chapters": "181-189", "name": "Jo Gul" },
+      { "range_chapters": "190-196", "name": "Maestro del clan Tang" },
+      { "range_chapters": "197-212", "name": "Clan Tang" },
+      { "range_chapters": "213-234", "name": "Clan de las bestias" },
+      { "range_chapters": "235-238", "name": "Regreso a la secta" },
+      { "range_chapters": "239-252", "name": "Habemus pildora" }
+    ]
+  },
+  {
+    "name": "Secta shaolin",
+    "data": [
+      { "range_chapters": "253-269", "name": "Invitación Secta shaolin" },
+      { "range_chapters": "270-284", "name": "Torneo de poder" },
+      { "range_chapters": "285-306", "name": "Octavos de final" },
+      { "range_chapters": "307-315", "name": "Cuartos de final" },
+      { "range_chapters": "316-328", "name": "Conclusión" },
+      { "range_chapters": "329-336", "name": "Yu Iseol" }
+    ]
+  },
+  { "range_chapters": "337-2000", "name": "Pending" }
+]
