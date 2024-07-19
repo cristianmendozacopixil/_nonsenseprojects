@@ -56,5 +56,15 @@
       { "range_chapters": "329-336", "name": "Yu Iseol" }
     ]
   },
-  { "range_chapters": "337-2000", "name": "Pending" }
+  {
+    "name": "Secta malvada",
+    "data": [
+      { "range_chapters": "337-350", "name": "Antiguos Ancianos?" },
+      { "range_chapters": "351-366", "name": "Secta Subsidiaria" },
+      { "range_chapters": "367-376", "name": "Secta malvada" },
+      { "range_chapters": "377-384", "name": "Secta malvada" },
+      { "range_chapters": "385-404", "name": "Secta malvada" }
+    ]
+  },
+  { "range_chapters": "405-2000", "name": "Pending" }
 ]
